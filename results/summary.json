@@ -1,0 +1,99 @@
+{
+  "student": "EaindrayMFU26",
+  "record": "ahadb/0001",
+  "channel": 2,
+  "fs_hz": 250,
+  "filter": {
+    "type": "FIR band-stop (Kaiser window)",
+    "numtaps": 281,
+    "beta": 3.395,
+    "cutoffs_hz": [
+      48.0,
+      52.0
+    ],
+    "atten_50hz_db_single_pass": 38.2,
+    "50-Hz peak above neighbouring noise floor, raw (dB)": 3.4789469117429785,
+    "Power 49-51 Hz, raw (µV²)": 18.9734244332532,
+    "Power 49-51 Hz, filtered (µV²)": 2.1855834847830196e-05,
+    "Power reduction 49-51 Hz (dB)": 59.38578321643846,
+    "RMS raw ECG (µV)": 318.1542029818245,
+    "RMS removed component (µV)": 8.14438735661291,
+    "Removed / raw RMS (%)": 2.5598867719745897,
+    "Correlation raw vs filtered": 0.9996725875685235
+  },
+  "rpeaks_first10s": 13,
+  "heart_rate": {
+    "n_peaks": 76,
+    "hr_count_bpm": 76.0,
+    "hr_mean_rr_bpm": 75.6,
+    "n_ectopic": 3,
+    "n_low_confidence": 1,
+    "classification": "Normal"
+  },
+  "segment_table": [
+    {
+      "Segment": "0–10 s",
+      "RR Interval (s)": "0.806 ± 0.026",
+      "QRS Duration (s)": "0.068 ± 0.003"
+    },
+    {
+      "Segment": "10–20 s",
+      "RR Interval (s)": "0.782 ± 0.018",
+      "QRS Duration (s)": "0.067 ± 0.006"
+    },
+    {
+      "Segment": "20–30 s",
+      "RR Interval (s)": "0.784 ± 0.012",
+      "QRS Duration (s)": "0.066 ± 0.007"
+    },
+    {
+      "Segment": "30–40 s",
+      "RR Interval (s)": "0.804 ± 0.026",
+      "QRS Duration (s)": "0.061 ± 0.007"
+    },
+    {
+      "Segment": "40–50 s",
+      "RR Interval (s)": "0.794 ± 0.030",
+      "QRS Duration (s)": "0.064 ± 0.005"
+    },
+    {
+      "Segment": "50–60 s",
+      "RR Interval (s)": "0.793 ± 0.022",
+      "QRS Duration (s)": "0.066 ± 0.006"
+    }
+  ],
+  "ml": {
+    "n_normal": 67,
+    "n_arrhythmia": 50,
+    "n_train": 81,
+    "n_test": 36,
+    "confusion_matrix": [
+      [
+        21,
+        0
+      ],
+      [
+        0,
+        15
+      ]
+    ],
+    "Accuracy": 1.0,
+    "Sensitivity / Recall": 1.0,
+    "Specificity": 1.0,
+    "Precision (PPV)": 1.0,
+    "F1-score": 1.0,
+    "5-fold CV accuracy (mean)": 1.0,
+    "5-fold CV accuracy (SD)": 0.0,
+    "ectopic_predictions": [
+      "Arrhythmia",
+      "Arrhythmia",
+      "Arrhythmia"
+    ],
+    "post_pause_predictions": [
+      "Arrhythmia",
+      "Normal",
+      "Normal"
+    ],
+    "segment_mean_check_accuracy": 1.0
+  }
+}

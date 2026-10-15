@@ -1,0 +1,9 @@
+,value
+Recording duration (s),60.0
+Total R-peaks detected,76
+  normal beats,72
+  ectopic (PVC-like) beats,3
+  low-confidence beats (noise burst),1
+Heart rate from count (bpm),76.0
+Heart rate from mean RR (bpm),75.6
+Classification,Normal

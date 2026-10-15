@@ -1,0 +1,8 @@
+,value
+Accuracy,1.0
+Sensitivity / Recall,1.0
+Specificity,1.0
+Precision (PPV),1.0
+F1-score,1.0
+5-fold CV accuracy (mean),1.0
+5-fold CV accuracy (SD),0.0

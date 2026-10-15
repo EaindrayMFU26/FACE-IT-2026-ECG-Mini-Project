@@ -1,0 +1,118 @@
+sample,RR (s),QRS (s),label,source,split
+N01,0.84,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N02,0.816,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N03,0.836,0.068,Normal,"AHA 0001, ch 2 (Step 5)",test
+N04,0.824,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N05,0.824,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N06,0.804,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N07,0.796,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N08,0.772,0.072,Normal,"AHA 0001, ch 2 (Step 5)",train
+N09,0.78,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N10,0.772,0.072,Normal,"AHA 0001, ch 2 (Step 5)",train
+N11,0.772,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N12,0.756,0.072,Normal,"AHA 0001, ch 2 (Step 5)",train
+N13,0.792,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N14,0.824,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N15,0.784,0.06,Normal,"AHA 0001, ch 2 (Step 5)",test
+N16,0.784,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N17,0.796,0.076,Normal,"AHA 0001, ch 2 (Step 5)",train
+N18,0.772,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N19,0.776,0.072,Normal,"AHA 0001, ch 2 (Step 5)",test
+N20,0.792,0.056,Normal,"AHA 0001, ch 2 (Step 5)",train
+N21,0.768,0.072,Normal,"AHA 0001, ch 2 (Step 5)",test
+N22,0.772,0.068,Normal,"AHA 0001, ch 2 (Step 5)",test
+N23,0.784,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N24,0.788,0.056,Normal,"AHA 0001, ch 2 (Step 5)",test
+N25,0.776,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N26,0.772,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N27,0.78,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N28,0.772,0.052,Normal,"AHA 0001, ch 2 (Step 5)",train
+N29,0.796,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N30,0.792,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N31,0.784,0.08,Normal,"AHA 0001, ch 2 (Step 5)",train
+N32,0.792,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N33,0.78,0.076,Normal,"AHA 0001, ch 2 (Step 5)",train
+N34,0.764,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N35,0.808,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N36,0.816,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N37,0.8,0.056,Normal,"AHA 0001, ch 2 (Step 5)",train
+N38,0.828,0.056,Normal,"AHA 0001, ch 2 (Step 5)",train
+N39,0.832,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N40,0.844,0.052,Normal,"AHA 0001, ch 2 (Step 5)",test
+N41,0.828,0.072,Normal,"AHA 0001, ch 2 (Step 5)",train
+N42,0.792,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N43,0.776,0.06,Normal,"AHA 0001, ch 2 (Step 5)",train
+N44,0.772,0.048,Normal,"AHA 0001, ch 2 (Step 5)",test
+N45,0.772,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N46,0.788,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N47,0.828,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N48,0.832,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N49,0.828,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N50,0.812,0.06,Normal,"AHA 0001, ch 2 (Step 5)",train
+N51,0.804,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N52,0.78,0.056,Normal,"AHA 0001, ch 2 (Step 5)",test
+N53,0.756,0.072,Normal,"AHA 0001, ch 2 (Step 5)",test
+N54,0.764,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N55,0.764,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N56,0.772,0.056,Normal,"AHA 0001, ch 2 (Step 5)",test
+N57,0.78,0.072,Normal,"AHA 0001, ch 2 (Step 5)",test
+N58,0.8,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N59,0.828,0.072,Normal,"AHA 0001, ch 2 (Step 5)",test
+N60,0.812,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N61,0.8,0.064,Normal,"AHA 0001, ch 2 (Step 5)",test
+N62,0.78,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N63,0.788,0.068,Normal,"AHA 0001, ch 2 (Step 5)",train
+N64,0.8,0.052,Normal,"AHA 0001, ch 2 (Step 5)",train
+N65,0.804,0.064,Normal,"AHA 0001, ch 2 (Step 5)",train
+N66,0.744,0.072,Normal,"AHA 0001, ch 2 (Step 5)",train
+N67,0.784,0.06,Normal,"AHA 0001, ch 2 (Step 5)",train
+A01,0.36681,0.12155,Arrhythmia,assignment table,train
+A02,0.48813,0.17431,Arrhythmia,assignment table,train
+A03,0.20005,0.13693,Arrhythmia,assignment table,train
+A04,0.32093,0.14124,Arrhythmia,assignment table,train
+A05,0.2587,0.15933,Arrhythmia,assignment table,train
+A06,0.23694,0.12427,Arrhythmia,assignment table,train
+A07,0.2745,0.16593,Arrhythmia,assignment table,train
+A08,0.33822,0.13174,Arrhythmia,assignment table,test
+A09,0.35871,0.16714,Arrhythmia,assignment table,train
+A10,0.41553,0.17598,Arrhythmia,assignment table,test
+A11,0.36768,0.12819,Arrhythmia,assignment table,train
+A12,0.47409,0.15312,Arrhythmia,assignment table,train
+A13,0.28178,0.17555,Arrhythmia,assignment table,train
+A14,0.55125,0.15313,Arrhythmia,assignment table,test
+A15,0.21096,0.124,Arrhythmia,assignment table,test
+A16,0.46819,0.16287,Arrhythmia,assignment table,test
+A17,0.36692,0.1731,Arrhythmia,assignment table,train
+A18,0.42348,0.16119,Arrhythmia,assignment table,test
+A19,0.25615,0.19557,Arrhythmia,assignment table,train
+A20,0.27924,0.16692,Arrhythmia,assignment table,train
+A21,0.5203,0.19227,Arrhythmia,assignment table,test
+A22,0.5873,0.131,Arrhythmia,assignment table,train
+A23,0.32537,0.13114,Arrhythmia,assignment table,test
+A24,0.47693,0.18459,Arrhythmia,assignment table,train
+A25,0.55056,0.15181,Arrhythmia,assignment table,train
+A26,1.5368,0.13323,Arrhythmia,assignment table,test
+A27,1.051,0.1942,Arrhythmia,assignment table,train
+A28,1.0234,0.14782,Arrhythmia,assignment table,train
+A29,1.1019,0.18006,Arrhythmia,assignment table,train
+A30,1.5269,0.17808,Arrhythmia,assignment table,train
+A31,1.059,0.19066,Arrhythmia,assignment table,test
+A32,1.2527,0.16989,Arrhythmia,assignment table,train
+A33,1.5747,0.18008,Arrhythmia,assignment table,train
+A34,1.3199,0.14791,Arrhythmia,assignment table,test
+A35,1.4151,0.14159,Arrhythmia,assignment table,train
+A36,1.1893,0.19167,Arrhythmia,assignment table,test
+A37,1.4119,0.15425,Arrhythmia,assignment table,train
+A38,1.5008,0.19719,Arrhythmia,assignment table,train
+A39,1.011,0.17308,Arrhythmia,assignment table,train
+A40,1.4501,0.16974,Arrhythmia,assignment table,train
+A41,1.5933,0.12918,Arrhythmia,assignment table,train
+A42,1.4489,0.19596,Arrhythmia,assignment table,train
+A43,1.1683,0.15599,Arrhythmia,assignment table,train
+A44,1.4736,0.16627,Arrhythmia,assignment table,test
+A45,1.0619,0.15265,Arrhythmia,assignment table,train
+A46,1.2687,0.13896,Arrhythmia,assignment table,train
+A47,1.5452,0.19227,Arrhythmia,assignment table,train
+A48,1.1762,0.16589,Arrhythmia,assignment table,test
+A49,1.1727,0.12023,Arrhythmia,assignment table,train
+A50,1.078,0.16937,Arrhythmia,assignment table,test

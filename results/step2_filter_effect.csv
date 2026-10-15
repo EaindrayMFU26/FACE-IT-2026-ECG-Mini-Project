@@ -1,0 +1,9 @@
+,value
+"50-Hz peak above neighbouring noise floor, raw (dB)",3.4789469117429785
+"Power 49-51 Hz, raw (µV²)",18.9734244332532
+"Power 49-51 Hz, filtered (µV²)",2.1855834847830196e-05
+Power reduction 49-51 Hz (dB),59.38578321643846
+RMS raw ECG (µV),318.1542029818245
+RMS removed component (µV),8.14438735661291
+Removed / raw RMS (%),2.5598867719745897
+Correlation raw vs filtered,0.9996725875685235

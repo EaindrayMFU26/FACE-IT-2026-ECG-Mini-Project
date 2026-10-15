@@ -1,0 +1,7 @@
+beat,beat kind,t_R (s),RR (s),QRS (s),predicted,decision score
+5,ectopic (PVC-like),3.172,0.436,0.112,Arrhythmia,0.7
+6,sinus beat after the pause,4.384,1.212,0.072,Arrhythmia,0.24
+58,ectopic (PVC-like),45.28,0.436,0.108,Arrhythmia,0.6
+59,sinus beat after the pause,46.428,1.148,0.064,Normal,-0.08
+73,ectopic (PVC-like),57.132,0.456,0.108,Arrhythmia,0.56
+74,sinus beat after the pause,58.268,1.136,0.072,Normal,-0.05
